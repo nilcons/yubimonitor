@@ -1,7 +1,7 @@
 YubiKey/PGP helper and indicator for i3bar
 ==========================================
 
-`yubimonitor` displays a icon in the `i3bar` that reflects the status
+`yubimonitor` displays an icon in the `i3bar` that reflects the status
 of your YubiKey (or any other OpenPGP smart card), most importantly
 visually notifies you when you have to press it.
 
